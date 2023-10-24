@@ -2,7 +2,7 @@
 
 ## Как пользоваться:
 
-1. Создаем четыре папки
+1. Создаем четыре папки в месте где лежат файлы main.py и image_processing.py
    * data_colored
    * data_grey
    * result_colored
